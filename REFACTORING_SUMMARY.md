@@ -172,7 +172,7 @@ apa info --config configs/detroit.yaml
 - Comprehensive documentation
 - Clean, readable code
 
-## 🚀 Getting Started with Refactored Code
+##  Getting Started with Refactored Code
 
 ### 1. **Installation**
 

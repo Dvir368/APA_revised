@@ -13,7 +13,7 @@ APA is organized into several main modules, each handling specific aspects of th
 - **[Models](models/)** - Machine learning models and architectures
 - **[Processing](processing/)** - Image processing and filtering operations
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Basic Usage
 

@@ -73,7 +73,7 @@ The API automatically:
 - Parses outputs into standardized result objects
 - Handles metadata and type information
 
-## 🚀 Usage Examples
+##  Usage Examples
 
 ### Basic Module Usage
 
@@ -318,5 +318,5 @@ If configuration validation fails:
 
 ---
 
-**The API is ready to use! Just add your logic to the TODO sections and you're good to go!** 🚀
+**The API is ready to use! Just add your logic to the TODO sections and you're good to go!** 
 

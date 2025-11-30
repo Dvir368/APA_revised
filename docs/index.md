@@ -2,7 +2,7 @@
 
 Welcome to the APA documentation! APA is a geospatial AI pipeline that uses satellite imagery to predict the Pavement Condition Index (PCI) of urban roads.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 

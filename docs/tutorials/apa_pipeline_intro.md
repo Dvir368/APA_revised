@@ -663,7 +663,7 @@ pipeline_kiryat = APAPipeline(kiryat_ata_config['config'])
 
 ---
 
-## 🚀 Getting Started: Your First APA Pipeline
+##  Getting Started: Your First APA Pipeline
 
 ### Step 1: Setup
 ```bash

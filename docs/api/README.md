@@ -21,7 +21,7 @@ docs/api/
     └── index.md         # ImageProcessor, Georeferencer, RoadExtractor
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Basic Usage
 

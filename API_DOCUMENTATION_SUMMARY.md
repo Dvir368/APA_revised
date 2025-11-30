@@ -252,7 +252,7 @@ Comprehensive error handling documentation:
 - **Usage Examples**: 30+
 - **Code Snippets**: 100+
 
-## 🚀 Getting Started with API Documentation
+##  Getting Started with API Documentation
 
 ### 1. **Start with the Main Index**
 ```bash

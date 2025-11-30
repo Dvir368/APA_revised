@@ -88,7 +88,7 @@ def run_tests() -> None:
 
 def main():
     """Main setup function."""
-    print("🚀 Setting up APA development environment...")
+    print(" Setting up APA development environment...")
     
     # Create virtual environment
     create_virtualenv()

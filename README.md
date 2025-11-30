@@ -17,7 +17,7 @@
 - **📈 Comprehensive Analytics**: Detailed metrics and visualization tools
 - **🔧 CLI Interface**: Easy-to-use command-line tools
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 

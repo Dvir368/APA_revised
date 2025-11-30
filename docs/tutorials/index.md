@@ -37,7 +37,7 @@ Welcome to the APA tutorials! These step-by-step guides will help you understand
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Installation
 ```bash

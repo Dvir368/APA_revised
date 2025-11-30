@@ -84,7 +84,7 @@ docs/
 - `ConfigurationError`: Configuration errors
 - `PipelineError`: Pipeline execution errors
 
-## 🚀 Usage Examples
+##  Usage Examples
 
 ### Basic Module Usage
 
@@ -233,7 +233,7 @@ The APA Common API provides a robust, standardized foundation for building modul
 
 This common API makes your APA project much more maintainable, testable, and extensible while ensuring consistency across all modules. Each stage is now truly independent and can be easily composed into custom workflows.
 
-## 🚀 Next Steps
+##  Next Steps
 
 1. **Test the Implementation**: Run the examples to verify everything works
 2. **Migrate Existing Code**: Gradually migrate existing modules to use the common API
